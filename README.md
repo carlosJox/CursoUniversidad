@@ -1,2 +1,2 @@
 # CursoUniversidad
-ejemplos de java para cursp
+ejemplos de java para cursO
